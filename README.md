@@ -1,2 +1,2 @@
-# hello-world
+# HelloWorld
 My first repository on GitHub
